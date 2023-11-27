@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="" width="60%" height="60%">
+  <img src="output/output.gif" width="60%" height="60%">
 </div>
 
 <div>
