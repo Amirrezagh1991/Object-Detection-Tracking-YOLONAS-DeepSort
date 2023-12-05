@@ -31,5 +31,8 @@
 
 <div>
     <h1>Installation</h1>
+    <li> Clone this repo or download the zip folder. </li>
+    <li> Configure your virtual environment. </li>
+    <li> install the packages in requirements.txt file (pip install -r requirements.txt). </li>
 </div>
 
